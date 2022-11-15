@@ -7,12 +7,18 @@
 	},
 	"name": "dxp-22-demo",
 	"description": null,
-	"ver": "22.11.15.1125",
+	"ver": "22.11.15.1143",
 	"enableCICD": true,
 	"apps": [
 		{
 			"id": "e18850f3-e7ce-498a-bcc6-4b23c4486991",
 			"application": "dxp22demo",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "dcc511b4-8fb8-49f4-92cd-f69ee7c135c0",
+			"application": "dxp22demolist",
 			"title": "",
 			"description": ""
 		}
@@ -21,8 +27,20 @@
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
-	"jsclass": [],
-	"jsscript_group": [],
+	"jsclass": [
+		{
+			"id": "159cc6e9-7e1b-450f-afcb-0bb9f0cf775b",
+			"name": "demo",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "445b0974-0e51-4e7a-9da6-f038645b41b8",
+			"name": "dxp22demo",
+			"description": null
+		}
+	],
 	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
