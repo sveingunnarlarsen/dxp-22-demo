@@ -7,7 +7,7 @@
 	"entitySets": [],
 	"apis": [],
 	"name": "demo",
-	"ver": "22.11.15.1143",
+	"ver": "22.11.15.1144",
 	"description": null,
 	"content": "file:///content.script",
 	"useAsGlobalScript": false,
