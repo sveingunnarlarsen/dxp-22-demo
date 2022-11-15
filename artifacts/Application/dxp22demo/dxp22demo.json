@@ -372,7 +372,16 @@
 													"customComponent": false,
 													"request": [],
 													"response": [],
-													"attributes": [],
+													"attributes": [
+														{
+															"attribute": "validateFieldGroup",
+															"grouping": "Events",
+															"value": "Anonymous Function",
+															"script": "file://event/sap.ui.layout.form.SimpleForm/formDetail/validateFieldGroup.script",
+															"language": "javascript",
+															"translation": []
+														}
+													],
 													"data": [
 														{
 															"fieldNo": "25",
@@ -687,6 +696,18 @@
 			"fieldNo": 99999,
 			"data": [
 				{
+					"fieldNo": "ff15e692-f024-4a0a-b9c7-ca3ade9c3305",
+					"fieldName": "foo",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "file://script/neptune.Typescript/foo.script",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
 					"fieldNo": "4838a57c-b63c-4f6c-b911-d3bcc65d5071",
 					"fieldName": "init",
 					"fieldParent": 99999,
@@ -706,7 +727,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "22.11.15.1230",
+	"ver": "22.11.15.155",
 	"application": "dxp22demo",
 	"title": "",
 	"description": "",
