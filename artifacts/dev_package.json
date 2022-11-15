@@ -1,0 +1,45 @@
+{
+	"id": "e844c8e8-a21a-4870-a2bc-95f0fd03c9ac",
+	"createdAt": "2022-11-15T11:21:30.662Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/dxp-22-demo.git"
+	},
+	"name": "dxp-22-demo",
+	"description": null,
+	"ver": "22.11.15.1125",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "e18850f3-e7ce-498a-bcc6-4b23c4486991",
+			"application": "dxp22demo",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": []
+}
