@@ -7,7 +7,7 @@
 	},
 	"name": "dxp-22-demo",
 	"description": null,
-	"ver": "22.11.15.1143",
+	"ver": "22.11.15.1331",
 	"enableCICD": true,
 	"apps": [
 		{
